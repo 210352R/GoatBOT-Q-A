@@ -24,12 +24,12 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 1.Clone this repository to your local machine using:
 
 ```bash
-  
+  https://github.com/210352R/GoatBOT-Q-A.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  
+  cd /
 ```
 3. Install the required dependencies using pip:
 
